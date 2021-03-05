@@ -1,0 +1,38 @@
+{
+    "blogs": [
+        {
+            "title": "First Blog",
+            "body": "The content of first blog post",
+            "author": "Smith",
+            "id": 1,
+            "likes": 45
+        },
+        {
+            "title": "Second Blog",
+            "body": "The content of second blog post",
+            "author": "Adam",
+            "id": 2,
+            "likes": 22
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Welcome to josn server course",
+            "body": "This course about josn server resource",
+            "likes": 45 
+        },
+        {
+            "id": 2,
+            "title": "How to create it",
+            "body": "This course about josn server resource",
+            "likes": 4
+        },
+        {
+            "id": 1,
+            "title": "Welcome to josn server course",
+            "body": "This course about josn server resource",
+            "likes": 44
+        }
+    ]
+}
